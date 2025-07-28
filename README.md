@@ -8,6 +8,15 @@
   </a>
 </p>
 
+## License
+
+The code is distributed under the CC BY-NC-SA 4.0 License.
+See [LICENSE](LICENSE) for more information.
+
+```python
+# Copyright (C) 2025-present by ShalikAI. All rights reserved.
+# Licensed under CC BY-NC-SA 4.0 (non-commercial use only).
+```
 
 ## Overview
 
